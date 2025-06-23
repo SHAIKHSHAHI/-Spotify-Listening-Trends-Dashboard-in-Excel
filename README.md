@@ -35,7 +35,7 @@
 - Most tracks played were short (2–5 minutes).
 
 - Tracks with 0 minutes may indicate skipped or unfinished plays.
-# 🧠 Formulas Used:
+## 🧠 Formulas Used:
 - 👉 =ROUND(ms_played/60000, 2) → Milliseconds to Minutes
 - 👉 =TEXT(Timestamp, "dddd") → Day
 - 👉 =TEXT(Timestamp, "mmmm") → Month
