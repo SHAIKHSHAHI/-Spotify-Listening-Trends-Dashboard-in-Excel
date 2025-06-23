@@ -36,11 +36,10 @@
 
 - Tracks with 0 minutes may indicate skipped or unfinished plays.
 # 🧠 Formulas Used:
-👉 =ROUND(ms_played/60000, 2) → Milliseconds to Minutes
-Extracted date & time details:
-👉 =TEXT(Timestamp, "dddd") → Day
-👉 =TEXT(Timestamp, "mmmm") → Month
-👉 =HOUR(Timestamp) → Hour
+- 👉 =ROUND(ms_played/60000, 2) → Milliseconds to Minutes
+- 👉 =TEXT(Timestamp, "dddd") → Day
+- 👉 =TEXT(Timestamp, "mmmm") → Month
+- 👉 =HOUR(Timestamp) → Hour
 
 ## ✅ Conclusion
 - It reflects strong command of Excel functions, time-series processing, and dashboard design. 
