@@ -1,4 +1,7 @@
 # 🎧 Spotify-Listening-Trends-Dashboard-in-Excel
+
+![spotify](Spotify.jpg)
+
 ## Project Overview 
 
 - This project presents an analysis of my Spotify streaming history using Microsoft Excel.
