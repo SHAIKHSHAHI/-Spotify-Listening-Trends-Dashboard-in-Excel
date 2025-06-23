@@ -42,7 +42,7 @@ Extracted date & time details:
 👉 =TEXT(Timestamp, "mmmm") → Month
 👉 =HOUR(Timestamp) → Hour
 
-✅ Conclusion
+## ✅ Conclusion
 - It reflects strong command of Excel functions, time-series processing, and dashboard design. 
 - The insights derived offer a personal perspective on music habits while showcasing practical analytical skills.
 -  This dashboard stands as a simple yet impactful example of data storytelling using real-life data.
